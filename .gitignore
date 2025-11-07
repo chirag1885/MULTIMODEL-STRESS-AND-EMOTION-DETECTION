@@ -1,0 +1,24 @@
+# Ignore dataset folders
+WESAD/
+FER-2013/
+cnn_lstm_tuning_v2/
+audio/
+.ipynb_checkpoints/
+
+# Ignore large model & binary files
+*.pkl
+*.h5
+*.pt
+*.ckpt
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.pptx
+*.docx
+*.zip
+*.rar
+
+# Ignore system / temp files
+.DS_Store
+Thumbs.db
